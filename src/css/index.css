@@ -1,0 +1,14 @@
+body {
+  background-color: red;
+  color: #fff;
+}
+#tp {
+  width: 200px;
+  height: 200px;
+  background: url(../images/aaa.jpg);
+  transform: scale(45deg);
+}
+#aaa {
+  background-color: red;
+  color: #fff;
+}
